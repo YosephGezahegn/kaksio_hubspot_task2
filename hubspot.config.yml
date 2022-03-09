@@ -1,0 +1,12 @@
+defaultPortal: kaksio_task
+portals:
+  - name: kaksio_task
+    portalId: 21525269
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          COXsx_b2LxIJAA0AAAAA4A0DGJXmoQogi9_wFCju6QwyFGZWij9oc2p6q6weXe07Oscq_2VFOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhTKYQWX4hz-JWcYQ7Ku2SXrcLOhZEoDbmExUgBaAA
+        expiresAt: '2022-03-09T13:15:28.234Z'
+    personalAccessKey: >-
+      CiRkOGJlNDUyYS0wOTM4LTQ2MmItYjU4ZC1lZWMxYzdhYWRmMTgQleahChiL3_AUKhkABeaRgtzLAjyKkAvJqCm29MHG_FMbTOKCSgNuYTE
